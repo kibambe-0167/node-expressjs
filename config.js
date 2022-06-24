@@ -1,9 +1,9 @@
 const config = {
     db: {
-        host: "localhost",
-        user: "root",
+        host: "",
+        user: "",
         password: "",
-        database: "activelearn",
+        database: "",
     }
 }
 
